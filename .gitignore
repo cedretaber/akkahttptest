@@ -1,0 +1,11 @@
+/.idea/
+/project/boot/
+/project/plugins/project
+/node_modules/
+target/
+*.iml
+*.class
+.classpath
+.project
+.settings
+.DS_Store
